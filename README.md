@@ -31,11 +31,10 @@ A simple yet powerful **Weather Forecasting Web App** built using **React.js**, 
 ```
 weather-app/
 │── src/
-│   ├── components/
-│   │   ├── WeatherCard.jsx
 │   ├── App.jsx
 │   ├── index.js
 │   ├── styles.css
+|   ├── Weather.jsx
 │
 │── .env  (for API key)
 │── package.json
