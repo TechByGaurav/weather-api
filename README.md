@@ -34,7 +34,7 @@ weather-app/
 │   ├── App.jsx
 │   ├── index.js
 │   ├── styles.css
-|   ├── Weather.jsx
+|   ├── Weather.js
 │
 │── .env  (for API key)
 │── package.json
@@ -105,7 +105,7 @@ const fetchWeather = async () => {
 
 ```
 npm install
-npm run dev
+npm start
 ```
 
 ---
